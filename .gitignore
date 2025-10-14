@@ -2,6 +2,6 @@
 node_modules
 .aider*
 .vercel
-.vscode
 *.diff.png
 tsconfig.tsbuildinfo
+config.bat
