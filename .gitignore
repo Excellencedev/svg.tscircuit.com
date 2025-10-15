@@ -5,3 +5,4 @@ node_modules
 .vscode
 *.diff.png
 tsconfig.tsbuildinfo
+config.bat
